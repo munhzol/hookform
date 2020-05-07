@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/munhzol/hookform/static/css/main.fd8bd2d7.chunk.css",
+    "main.js": "/munhzol/hookform/static/js/main.ded22a30.chunk.js",
+    "main.js.map": "/munhzol/hookform/static/js/main.ded22a30.chunk.js.map",
+    "runtime-main.js": "/munhzol/hookform/static/js/runtime-main.89969975.js",
+    "runtime-main.js.map": "/munhzol/hookform/static/js/runtime-main.89969975.js.map",
+    "static/css/2.74189dbb.chunk.css": "/munhzol/hookform/static/css/2.74189dbb.chunk.css",
+    "static/js/2.94fb6ed3.chunk.js": "/munhzol/hookform/static/js/2.94fb6ed3.chunk.js",
+    "static/js/2.94fb6ed3.chunk.js.map": "/munhzol/hookform/static/js/2.94fb6ed3.chunk.js.map",
+    "index.html": "/munhzol/hookform/index.html",
+    "precache-manifest.4b2deeab1c8b04720c4124fcbdd68097.js": "/munhzol/hookform/precache-manifest.4b2deeab1c8b04720c4124fcbdd68097.js",
+    "service-worker.js": "/munhzol/hookform/service-worker.js",
+    "static/css/2.74189dbb.chunk.css.map": "/munhzol/hookform/static/css/2.74189dbb.chunk.css.map",
+    "static/css/main.fd8bd2d7.chunk.css.map": "/munhzol/hookform/static/css/main.fd8bd2d7.chunk.css.map",
+    "static/js/2.94fb6ed3.chunk.js.LICENSE.txt": "/munhzol/hookform/static/js/2.94fb6ed3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89969975.js",
+    "static/css/2.74189dbb.chunk.css",
+    "static/js/2.94fb6ed3.chunk.js",
+    "static/css/main.fd8bd2d7.chunk.css",
+    "static/js/main.ded22a30.chunk.js"
+  ]
+}
