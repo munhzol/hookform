@@ -1,18 +1,26 @@
-import React from 'react';
+import React, { useState } from 'react';
 import './App.css';
 
 // import PersonCard from './components/PersonCard';
 // import UserForm from './components/UserForm';
 
 import SignupForm from './components/SignupForm';
-
-
+import Result from './components/Result';
 
 function App() {
+  const [state, setState] = useState({
+      firstName:"",
+      lastName:"",
+      email:"",
+      password:"",
+      passwordConfirm:""
+  });
+
   return (
       <>
 
-        <SignupForm />
+        <SignupForm inputs={state} setInputs={setState} />
+        <Result data={state} />
 
 
         {/* <UserForm/>
